@@ -1,7 +1,7 @@
 ## PicPay-clone
 
 <p align="center">
-  <img alt="demo" src="https://s6.gifyu.com/images/clone-picpay.md.gif" width="300px">
+  <img alt="demo" src="https://res.cloudinary.com/jhowpaes-dev/image/upload/v1588883573/picpay-clone2_vx6kwl.gif" width="300px">
 </p>
 
 ## :iphone: Run it!
