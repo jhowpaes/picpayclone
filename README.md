@@ -1,5 +1,9 @@
 ## PicPay-clone
 
+<p align="center">
+  <img alt="Demo app" src="https://lh6.googleusercontent.com/6mu9hy-TtomPS6AyYPshZLG2-bT3ATdmibNFywNXF-L40Bd6wZjrTYl_udY8UhAldt8xaquyeyJO4HsHfgk=w1366-h695-rw">
+</p>
+
 ## :iphone: Run it!
 
 ```bash
